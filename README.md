@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Made with reference to guide at http://tutorials.jumpstartlab.com/projects/blogger.html
 
-Things you may want to cover:
+Ruby Version: 2.6.3p62
 
-* Ruby version
+Basic blog to familiarize self with:
+Models, Views, and Controllers (MVC)
+Data Structures & Relationships
+Routing
+Migrations
+Views with forms, partials, and helpers
+RESTful design
+Adding gems for extra features
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+...as noted at above url.
